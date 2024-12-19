@@ -39,5 +39,7 @@ for nome_atividade, atividade in atividades:
 
     print ("Sala 1", atividade_sala1)
     print ("Sala 2", atividade_sala2)
+    
+    
     print ()
     print ("#" * 50)
